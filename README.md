@@ -7,7 +7,7 @@ Additionally,<br>
 - What code were you given?
 - What code did you create yourself?<br>
 ***
-ANSWER HERE
+This project required us to create an agent that could learn to navigate a puzzle in an 8x8 grid. We were expected to utilize a Deep Q-Learning algorithm and develop Python code. The course provided the GameExperience.py and TreasureMaze.py files and some preliminary code in the work file. I created the learning loop and the parameters for ending the loop with a specific win rate and epsilon factor.
 <br/>
 <br/>
 <br/>
